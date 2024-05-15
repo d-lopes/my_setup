@@ -26,11 +26,17 @@ sh ./<environment>.setup.sh
 
 Install the following tools manually:
 
-| Tool          | Category     | Installation Guide                                             |
-| ------------- | ------------ | -------------------------------------------------------------- |
-| Archi         | Architecture | https://www.archimatetool.com/                                 |
-| Diffusion Bee | AI           | https://github.com/divamgupta/diffusionbee-stable-diffusion-ui |
-| Ollama        | AI           | https://ollama.com/                                            |
-| Page-Assist   | AI           | https://github.com/n4ze3m/page-assist                          |
-| Office 365    | Business     | https://portal.office.de                                       |
-|               |              |                                                                |
+| Tool                                     | Category     | Installation Guide                                             |
+| ---------------------------------------- | ------------ | -------------------------------------------------------------- |
+| [Archi](doc/architecture/archi.md)       | Architecture | https://www.archimatetool.com/                                 |
+| [Diffusion Bee](doc/ai/diffusion-bee.md) | AI           | https://github.com/divamgupta/diffusionbee-stable-diffusion-ui |
+| [Ollama](doc/ai/ollama.md)               | AI           | https://ollama.com/                                            |
+| [Page-Assist](doc/ai/page-assist.md)     | AI           | https://github.com/n4ze3m/page-assist                          |
+| [Office 365](doc/business/office365.md)  | Business     | https://portal.office.de                                       |
+|                                          |              |                                                                |
+
+## Manual configuration steps
+
+| Tool                            | Category | Necessary Configuration |
+| ------------------------------- | -------- | ----------------------- |
+| [VS Code](doc/devops/vscode.md) | DevOps   | VS Code Extensions      |
