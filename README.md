@@ -2,10 +2,11 @@
 
 this repo constains installation scripts to quickly setup my system with up to date components to cover aspects of my daily work:
 
-* kubernetes and devops tooling
-* architectural tooling
+* Architectural tooling
 * AI and ML tooling
-
+* Business tooling
+* DevOps tooling
+  
 # Prerequisits
 
 * shell access
@@ -25,10 +26,11 @@ sh ./<environment>.setup.sh
 
 Install the following tools manually:
 
-| Tool          | Installation Guide                                             |
-| ------------- | -------------------------------------------------------------- |
-| Archi         | https://www.archimatetool.com/                                 |
-| Diffusion Bee | https://github.com/divamgupta/diffusionbee-stable-diffusion-ui |
-| Ollama        | https://ollama.com/                                            |
-| Page-Assist   | https://github.com/n4ze3m/page-assist                          |
-|               |                                                                |
+| Tool          | Category     | Installation Guide                                             |
+| ------------- | ------------ | -------------------------------------------------------------- |
+| Archi         | Architecture | https://www.archimatetool.com/                                 |
+| Diffusion Bee | AI           | https://github.com/divamgupta/diffusionbee-stable-diffusion-ui |
+| Ollama        | AI           | https://ollama.com/                                            |
+| Page-Assist   | AI           | https://github.com/n4ze3m/page-assist                          |
+| Office 365    | Business     | https://portal.office.de                                       |
+|               |              |                                                                |
