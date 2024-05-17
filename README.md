@@ -65,7 +65,8 @@ Install the following tools manually:
 
 ## Manual configuration steps
 
-| **Tool**                        | **Category** | **Necessary Configuration** |
-| ------------------------------- | ------------ | --------------------------- |
-| [VS Code](doc/devops/vscode.md) | DevOps       | VS Code Extensions          |
-|                                 |              |                             |
+| **Tool**                                 | **Category** | **Necessary Configuration** |
+| ---------------------------------------- | ------------ | --------------------------- |
+| [VS Code](doc/devops/vscode.md)          | DevOps       | VS Code Extensions          |
+| [Diffusion Bee](doc/ai/diffusion-bee.md) | AI           | AI Models                   |
+|                                          |              |                             |

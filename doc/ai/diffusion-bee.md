@@ -8,4 +8,9 @@ Diffusion Bee is a user-friendly tool that allows users to run Stable Diffusion 
 
 ## Additional configuration steps
 
-none
+### Pull favorite models
+
+Pull the following models via the "Model" section in the Navigation Bar:
+
+* RealVis XL (ideal for realistic images)
+* DreamShaper (good for dreamy images)
