@@ -25,10 +25,15 @@ Then, open a new terminal window and install the extensions via the `code` comma
 code --install-extension camel-karavan.karavan
 code --install-extension codeium.codeium
 code --install-extension dart-code.dart-code
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension dotjoshjohnson.xml
 code --install-extension ecmel.vscode-html-css
 code --install-extension github.remotehub
 code --install-extension golang.go
+code --install-extension hashicorp.terraform
+code --install-extension in4margaret.compareit
 code --install-extension mechatroner.rainbow-csv
+code --install-extension mikestead.dotenv
 code --install-extension ms-azure-devops.azure-pipelines
 code --install-extension ms-azuretools.azure-dev
 code --install-extension ms-azuretools.vscode-azureappservice
@@ -51,8 +56,12 @@ code --install-extension ms-vscode.azure-repos
 code --install-extension ms-vscode.powershell
 code --install-extension ms-vscode.remote-repositories
 code --install-extension ms-vscode.vscode-node-azure-pack
+code --install-extension redhat.vscode-xml
 code --install-extension redhat.vscode-yaml
+code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension takumii.markdowntable
 code --install-extension tumido.crd-snippets
 code --install-extension yzhang.markdown-all-in-one
 ```
+
+_(The list from above was automatically generated with `code --list-extensions | xargs -L 1 echo code --install-extension`)_
