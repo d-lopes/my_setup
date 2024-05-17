@@ -8,10 +8,15 @@ brew update
 # install CLI tools via brew
 brew install jq yq git \
     docker docker-compose \
-    terraform \
+    terraform cdktf \
     kubectx helm helmfile k9s kube-capacity \
     pyenv \
+    nvm \
+    newman \
     watch
 
 # install GUI apps via brew
-brew install --cask openlens podman-desktop google-chrome visual-studio-code
+brew install --cask openlens podman-desktop \
+    google-chrome postman  \
+    visual-studio-code \
+    drawio
