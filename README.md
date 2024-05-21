@@ -59,6 +59,7 @@ Install the following tools manually:
 | [Archi](doc/architecture/archi.md)       | Architecture | https://www.archimatetool.com/                                 |
 | [Diffusion Bee](doc/ai/diffusion-bee.md) | AI           | https://github.com/divamgupta/diffusionbee-stable-diffusion-ui |
 | [Ollama](doc/ai/ollama.md)               | AI           | https://ollama.com/                                            |
+| [AnythingLLM](doc/ai/anythingllm.md)     | AI           | https://useanything.com/download                               |
 | [Page-Assist](doc/ai/page-assist.md)     | AI           | https://github.com/n4ze3m/page-assist                          |
 | [Office 365](doc/business/office365.md)  | Business     | https://portal.office.de                                       |
 |                                          |              |                                                                |

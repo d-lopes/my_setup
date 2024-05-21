@@ -17,6 +17,9 @@ Ollama is an AI-powered platform that enables users to chat with conversational 
 # most capable openly available LLM to date
 ollama pull llama3
 
+# most capable openly available LLM to date
+ollama pull dolphin-llama3
+
 # LLM that can use text prompts to generate and discuss code
 ollama pull codellama
 
