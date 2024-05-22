@@ -41,6 +41,7 @@ Currently, the following tools are automatically installed:
 | `pyenv`              | CLI      | Package manager for Python that simplifies installation and management of Python versions                                       |
 | `nvm`                | CLI      | Node.js version manager that allows for easy switching between different Node.js versions                                       |
 | `newman`             | CLI      | Command-line interface for Newman, a tool for running and testing APIs                                                          |
+| `graphviz`           | CLI      | Graphviz is an open source graph visualization software to represent structural information as diagrams (needed for plantUML)   |
 | `watch`              | CLI      | Utility command for monitoring changes to files or directories                                                                  |
 | `openlens`           | GUI      | A lightweight, open-source alternative to Lens - a tool for seamless interaction with Kubernetes clusters                       |
 | `podman-desktop`     | GUI      | A desktop interface for Podman, a Docker container runtime with improved security features.                                     |

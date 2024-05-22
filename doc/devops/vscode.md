@@ -32,6 +32,7 @@ code --install-extension github.remotehub
 code --install-extension golang.go
 code --install-extension hashicorp.terraform
 code --install-extension in4margaret.compareit
+code --install-extension jebbs.plantuml
 code --install-extension mechatroner.rainbow-csv
 code --install-extension mikestead.dotenv
 code --install-extension ms-azure-devops.azure-pipelines
@@ -60,6 +61,7 @@ code --install-extension redhat.vscode-xml
 code --install-extension redhat.vscode-yaml
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension takumii.markdowntable
+code --install-extension tamasfe.even-better-toml
 code --install-extension tumido.crd-snippets
 code --install-extension yzhang.markdown-all-in-one
 ```

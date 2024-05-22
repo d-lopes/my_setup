@@ -13,6 +13,7 @@ brew install jq yq git \
     pyenv \
     nvm \
     newman \
+    graphviz \
     watch
 
 # install GUI apps via brew
