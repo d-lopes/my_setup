@@ -7,14 +7,23 @@ brew update
 
 # install CLI tools via brew
 brew install jq yq git \
-    docker docker-compose \
+    colima docker docker-compose skopeo trivy \
     terraform cdktf \
-    kubectx helm helmfile k9s kube-capacity \
+    minikube k3d kubectx helm helmfile k9s kube-capacity \
+    dnsmasq \
+    java \
     pyenv \
     nvm \
     newman \
     graphviz \
     watch
+
+# run colima and dnsmasq as background services
+sudo brew services start colima
+sudo brew services start dnsmasq
+
+# add OpenJDK to the PATH variable
+echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
 
 # install GUI apps via brew
 brew install --cask openlens podman-desktop \
