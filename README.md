@@ -29,8 +29,11 @@ Currently, the following tools are automatically installed:
 | `jq`                 | CLI      | Lightweight and flexible command-line JSON processor                                                                            |
 | `yq`                 | CLI      | YAML processor with similar functionality to `jq` for JSON processing                                                           |
 | `git`                | CLI      | Version control system for tracking changes to code                                                                             |
+| `colima`             | CLI      | Colima is a lightweight alternative to Docker Desktop that allows to emulate supporting system architectures on Mac.            |
 | `docker`             | CLI      | Containerization platform for deploying applications                                                                            |
 | `docker-compose`     | CLI      | Tool for defining and running multi-container Docker environments                                                               |
+| `skopeo`             | CLI      | Utility that performs various operations on container images and image repositories.                                            |
+| `trivy`              | CLI      | Comprehensive and versatile security scanner                                                                                    |
 | `terraform`          | CLI      | Infrastructure as Code (IaC) tool for building and managing cloud resources                                                     |
 | `cdktf`              | CLI      | Open-source framework for building infrastructure as code with Terraform                                                        |
 | `kubectx`            | CLI      | Command-line interface for switching between Kubernetes contexts                                                                |
@@ -38,6 +41,7 @@ Currently, the following tools are automatically installed:
 | `helmfile`           | CLI      | Tool for managing Helm charts and configurations in a file-based format                                                         |
 | `k9s`                | CLI      | Kubernetes command-line toolkit with various utility functions                                                                  |
 | `kube-capacity`      | CLI      | Tool for analyzing and optimizing the capacity of Kubernetes clusters                                                           |
+| `dnsmasq`            | CLI      | simple DNS- and DHCP-Server for small networks that resolves names from a local network according to the /etc/hosts file.       |
 | `pyenv`              | CLI      | Package manager for Python that simplifies installation and management of Python versions                                       |
 | `nvm`                | CLI      | Node.js version manager that allows for easy switching between different Node.js versions                                       |
 | `newman`             | CLI      | Command-line interface for Newman, a tool for running and testing APIs                                                          |
@@ -61,7 +65,6 @@ Install the following tools manually:
 | [Diffusion Bee](doc/ai/diffusion-bee.md) | AI           | https://github.com/divamgupta/diffusionbee-stable-diffusion-ui |
 | [Ollama](doc/ai/ollama.md)               | AI           | https://ollama.com/                                            |
 | [AnythingLLM](doc/ai/anythingllm.md)     | AI           | https://useanything.com/download                               |
-| [Page-Assist](doc/ai/page-assist.md)     | AI           | https://github.com/n4ze3m/page-assist                          |
 | [Office 365](doc/business/office365.md)  | Business     | https://portal.office.de                                       |
 |                                          |              |                                                                |
 
