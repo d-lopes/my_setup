@@ -14,10 +14,10 @@ Ollama is an AI-powered platform that enables users to chat with conversational 
 
 ```bash
 
-# most capable openly available LLM to date
+# most capable openly available LLM to date (but gated)
 ollama pull llama3
 
-# most capable openly available LLM to date
+# most capable openly available LLM to date (uncensored)
 ollama pull dolphin-llama3
 
 # LLM that can use text prompts to generate and discuss code
