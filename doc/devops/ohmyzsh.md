@@ -20,6 +20,7 @@ plugins=(
   git
   dotenv
   nvm
+  zsh-sdkman
   macos
   docker
   docker-compose
